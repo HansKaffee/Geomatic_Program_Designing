@@ -1,0 +1,10 @@
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\bin\Release\DaDiZhuTiZhengSuan.exe.config
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\bin\Release\DaDiZhuTiZhengSuan.exe
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\bin\Release\DaDiZhuTiZhengSuan.pdb
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Release\DaDiZhuTiZhengSuan.Form1.resources
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Release\DaDiZhuTiZhengSuan.Properties.Resources.resources
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Release\DaDiZhuTiZhengSuan.csproj.GenerateResource.cache
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Release\DaDiZhuTiZhengSuan.csproj.CoreCompileInputs.cache
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Release\DaDiZhuTiZhengSuan.exe
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Release\DaDiZhuTiZhengSuan.pdb
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Release\DaDiZhuTiZhengSuan.csprojAssemblyReference.cache

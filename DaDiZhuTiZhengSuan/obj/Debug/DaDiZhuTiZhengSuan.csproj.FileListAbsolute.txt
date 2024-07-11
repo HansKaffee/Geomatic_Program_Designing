@@ -1,0 +1,10 @@
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\bin\Debug\DaDiZhuTiZhengSuan.exe.config
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\bin\Debug\DaDiZhuTiZhengSuan.exe
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\bin\Debug\DaDiZhuTiZhengSuan.pdb
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Debug\DaDiZhuTiZhengSuan.csprojAssemblyReference.cache
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Debug\DaDiZhuTiZhengSuan.Form1.resources
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Debug\DaDiZhuTiZhengSuan.Properties.Resources.resources
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Debug\DaDiZhuTiZhengSuan.csproj.GenerateResource.cache
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Debug\DaDiZhuTiZhengSuan.csproj.CoreCompileInputs.cache
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Debug\DaDiZhuTiZhengSuan.exe
+D:\Exams\20240710\DaDiZhuTiZhengSuan\DaDiZhuTiZhengSuan\obj\Debug\DaDiZhuTiZhengSuan.pdb
